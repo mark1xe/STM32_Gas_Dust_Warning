@@ -1,0 +1,13 @@
+../Core/Src/main.c:100:5:main	9
+../Core/Src/main.c:222:6:SystemClock_Config	4
+../Core/Src/main.c:266:13:MX_ADC1_Init	3
+../Core/Src/main.c:313:13:MX_ADC2_Init	3
+../Core/Src/main.c:360:13:MX_I2C1_Init	2
+../Core/Src/main.c:394:13:MX_TIM2_Init	4
+../Core/Src/main.c:439:13:MX_GPIO_Init	1
+../Core/Src/main.c:478:7:Read_MQ135_CO2	2
+../Core/Src/main.c:502:7:Read_GP2Y1014	3
+../Core/Src/main.c:535:6:HAL_TIM_PeriodElapsedCallback	4
+../Core/Src/main.c:551:6:DWT_Delay_Init	1
+../Core/Src/main.c:558:6:HAL_DelayMicroseconds	2
+../Core/Src/main.c:570:6:Error_Handler	1
